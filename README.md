@@ -27,11 +27,9 @@ OBJETIVOS ESPECI
 ![image](https://user-images.githubusercontent.com/105738390/171209109-0655bebb-1c4c-4c17-8f81-2971b3a194e7.png)
 ![image](https://user-images.githubusercontent.com/105738390/171209192-45f411aa-be88-4a6e-a7d3-d3533cbed83b.png)
 
-4. VIDEO 
-
-5. CONCLES 
+4. CONCLUSIONES
 - Se logro realizar todos los ejercicios presentes en el informe gracias a los conceptos aprendidos en clases
 - Se pudo concluir que el voltaje es proporcional a la corriente mediante la ley de Ohm
-6. BIBLIOGRAFIA
+5. BIBLIOGRAFIA
 
 FLOYD, TL (2007). Principios de circuitos electricos. Octava edición. México: PEARSON EDUCACIÓN.
